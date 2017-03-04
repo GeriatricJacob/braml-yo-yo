@@ -1,0 +1,19 @@
+{
+  "name": "braml-yo-yo",
+  "version": "1.0.1",
+  "description": "A braml wrapper for yo-yo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Towtow10",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Towtow10/braml-yo-yo.git"
+  },
+  "dependencies": {
+    "braml": "^1.0.5",
+    "yo-yo": "^1.4.0"
+  }
+}
