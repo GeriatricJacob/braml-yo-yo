@@ -1,2 +1,4 @@
-# braml-yo-yo
-A braml wrapper for yo-yo
+# Usage
+var bro = require('braml-yo-yo');
+
+bro(//your braml code here);
